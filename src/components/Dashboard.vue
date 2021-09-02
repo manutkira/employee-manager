@@ -47,5 +47,15 @@ export default {
 </script>
 
 <style>
-
+.collection{
+    border-radius: 30px;
+    border: 1px solid rgb(97, 237, 37);
+}
+.collection-header{
+    border-radius: 30px;
+}
+.collection-item{
+    border-radius: 30px;
+    border: 1px solid rgb(198, 255, 173);
+}
 </style>
